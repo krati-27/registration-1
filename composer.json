@@ -1,0 +1,8 @@
+{
+    "name": "php-registration-app",
+    "description": "A simple registration form with PHP",
+    "require": {
+      "php": ">=7.3.0"
+    }
+  }
+  
